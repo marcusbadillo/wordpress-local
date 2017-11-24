@@ -1,0 +1,14 @@
+/*
+Theme Name: Twenty Seventeen Child
+Version: 0.0.1
+Author: MediaDUK
+Description: A simple child theme for Twenty Seventeen wordpress theme
+Template: twentyseventeen
+*/
+
+
+/* https://developer.wordpress.org/themes/basics/main-stylesheet-style-css/ */
+.panel-content {
+  position: relative;
+  background: red;
+}
