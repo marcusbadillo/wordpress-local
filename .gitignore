@@ -80,3 +80,5 @@ www/wp-content/plugins/akismet/
 
 # ignore node packages
 node_modules/
+
+notes.txt
